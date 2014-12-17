@@ -24,6 +24,7 @@ for i in range(0, 6):
   # append is a function that lists understand
   elements.append(i)
   
-# now we can print them out too
+# nowasdf
+# we can print them out too
 for i in elements:
   print "Element was: %d" % i
